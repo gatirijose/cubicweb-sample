@@ -11,10 +11,10 @@ version = ".".join(str(num) for num in numversion)
 license = "LGPL"
 author = "LOGILAB S.A. (Paris, FRANCE)"
 author_email = "contact@logilab.fr"
-description = "beginer level cube"
+description = "small beginner cube"
 web = "https://forge.extranet.logilab.fr/cubicweb/cubes/tuto"
 
-__depends__ = {"cubicweb": ">= 4.1.0"}
+__depends__ = {"cubicweb": ">= 3.38.10"}
 __recommends__ = {}
 
 classifiers = [

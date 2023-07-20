@@ -1,7 +1,7 @@
 tuto
 =============================================================
 
-beginer level cube
+small beginner cube
 
 Installation
 ------------
@@ -47,11 +47,11 @@ your instance with the following commands (replace ``tuto-instance``
 by the name of your choice)::
 
     cubicweb-ctl create tuto tuto-instance
-    cubicweb-ctl start -D tuto-instance
+    cubicweb-ctl pyramid -D tuto-instance
 
 
 Learn More
 ----------
 
-Visit the `official documentation <https://cubicweb.readthedocs.io/en/4.1.0>`_
+Visit the `official documentation <https://cubicweb.readthedocs.io/en/3.38.10>`_
 to learn more about CubicWeb.

@@ -1,6 +1,6 @@
 """cubicweb-tuto application package
 
-beginer level cube
+small beginner cube
 """
 
 
