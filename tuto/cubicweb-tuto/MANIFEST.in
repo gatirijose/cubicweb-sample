@@ -1,0 +1,11 @@
+include *.py
+include */*.py
+recursive-include cubicweb_tuto *.py
+recursive-include cubicweb_tuto/data *.gif *.png *.ico *.css *.js
+recursive-include cubicweb_tuto/i18n *.po
+recursive-include cubicweb_tuto/wdoc *
+recursive-include test/data bootstrap_cubes *.py
+include *.ini
+exclude .gitlab-ci.yml
+exclude .yamllint
+exclude Dockerfile
